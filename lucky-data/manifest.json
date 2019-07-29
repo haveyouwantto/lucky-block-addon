@@ -1,0 +1,16 @@
+{
+	"format_version": 1,
+	"header": {
+		"description": "\u5e78\u8fd0\u65b9\u5757addon by HYWT",
+		"name": "luckydata",
+		"uuid": "7a9239b2-48b4-40ed-98c1-81ec5fdc6b89",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 8, 0]
+	},
+	"modules": [{
+		"description": "\u5e78\u8fd0\u65b9\u5757addon by HYWT",
+		"type": "data",
+		"uuid": "35e42632-28c7-4243-ab33-96ef89a25fa3",
+		"version": [1, 0, 0]
+	}]
+}

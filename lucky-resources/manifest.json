@@ -1,0 +1,16 @@
+{
+	"format_version": 1,
+	"header": {
+		"description": "\u5e78\u8fd0\u65b9\u5757addon by HYWT",
+		"name": "luckyresources",
+		"uuid": "29e2956a-b50f-41a5-ae0c-c85cb4c6b139",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 8, 0]
+	},
+	"modules": [{
+		"description": "\u5e78\u8fd0\u65b9\u5757addon by HYWT",
+		"type": "resources",
+		"uuid": "8becbf73-394c-426f-93fd-12c334ad5aae",
+		"version": [1, 0, 0]
+	}]
+}

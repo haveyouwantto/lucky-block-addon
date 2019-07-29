@@ -1,0 +1,31 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:diamond_sword",
+                    "functions": [
+                        {
+                            "function": "set_name",
+                            "name": "§r§l§4Unlucky Sword"
+                        },
+                        {
+                            "function": "enchant_with_levels",
+                            "levels": {
+                                "min": 50,
+                                "max": 200
+                            },
+                            "treasure": false
+                        },
+                        {
+                            "function": "set_damage",
+                            "damage": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

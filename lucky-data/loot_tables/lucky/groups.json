@@ -1,0 +1,114 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "loot_table",
+                    "name": "loot_tables/lucky/groups/bookshelves.json",
+                    "weight": 3
+                },
+                {
+                    "type": "loot_table",
+                    "name": "loot_tables/lucky/groups/pumpkins.json",
+                    "weight": 3
+                },
+                {
+                    "type": "loot_table",
+                    "name": "loot_tables/lucky/groups/golden_apples.json",
+                    "weight": 1
+                },
+                {
+                    "type": "loot_table",
+                    "name": "loot_tables/lucky/groups/buckets.json",
+                    "weight": 3
+                },
+                {
+                    "type": "loot_table",
+                    "name": "loot_tables/lucky/groups/meat.json",
+                    "weight": 2
+                },
+                {
+                    "type": "loot_table",
+                    "name": "loot_tables/lucky/groups/vegetables.json",
+                    "weight": 2
+                },
+                {
+                    "type": "loot_table",
+                    "name": "loot_tables/lucky/groups/ender_pearls.json",
+                    "weight": 1
+                },
+                {
+                    "type": "loot_table",
+                    "name": "loot_tables/lucky/groups/potions.json",
+                    "weight": 2
+                },
+                {
+                    "type": "loot_table",
+                    "name": "loot_tables/lucky/groups/spawn_eggs.json",
+                    "weight": 2
+                },
+                {
+                    "type": "loot_table",
+                    "name": "loot_tables/lucky/groups/heads.json",
+                    "weight": 3
+                },
+                {
+                    "type": "loot_table",
+                    "name": "loot_tables/lucky/groups/music_discs.json",
+                    "weight": 2
+                },
+                {
+                    "type": "loot_table",
+                    "name": "loot_tables/lucky/groups/brewing.json",
+                    "weight": 1
+                },
+                {
+                    "type": "loot_table",
+                    "name": "loot_tables/lucky/groups/redstone.json",
+                    "weight": 1
+                },
+                {
+                    "type": "loot_table",
+                    "name": "loot_tables/lucky/groups/colorful.json",
+                    "weight": 2
+                },
+                {
+                    "type": "loot_table",
+                    "name": "loot_tables/lucky/groups/ores.json",
+                    "weight": 1
+                },
+                {
+                    "type": "loot_table",
+                    "name": "loot_tables/lucky/groups/quartz.json",
+                    "weight": 2
+                },
+                {
+                    "type": "loot_table",
+                    "name": "loot_tables/lucky/groups/fish.json",
+                    "weight": 2
+                },
+                {
+                    "type": "loot_table",
+                    "name": "loot_tables/lucky/groups/jokes.json",
+                    "weight": 3
+                },
+                {
+                    "type": "loot_table",
+                    "name": "loot_tables/lucky/groups/flowers.json",
+                    "weight": 3
+                },
+                {
+                    "type": "loot_table",
+                    "name": "loot_tables/lucky/groups/enchantment_books.json",
+                    "weight": 2
+                },
+                {
+                    "type": "loot_table",
+                    "name": "loot_tables/lucky/groups/prismarine.json",
+                    "weight": 2
+                }
+            ]
+        }
+    ]
+}

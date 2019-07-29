@@ -1,0 +1,58 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "name": "loot_tables/lucky/tools.json",
+          "weight": 13
+        },
+        {
+          "type": "loot_table",
+          "name": "loot_tables/lucky/armor.json",
+          "weight": 10
+        },
+        {
+          "type": "loot_table",
+          "name": "loot_tables/lucky/blocks.json",
+          "weight": 21
+        },
+        {
+          "type": "loot_table",
+          "name": "loot_tables/lucky/chests.json",
+          "weight": 9
+        },
+        {
+          "type": "loot_table",
+          "name": "loot_tables/lucky/items.json",
+          "weight": 23
+        },
+        {
+          "type": "loot_table",
+          "name": "loot_tables/lucky/groups.json",
+          "weight": 42
+        },
+        {
+          "type": "loot_table",
+          "name": "loot_tables/lucky/enchanted.json",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "lucky:lucky_block",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 2,
+                "max": 4
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

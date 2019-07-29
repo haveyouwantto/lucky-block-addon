@@ -1,0 +1,39 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:clock",
+                    "functions": [
+                        {
+                            "function": "set_name",
+                            "name": "You're wasting your time"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:clownfish",
+                    "functions": [
+                        {
+                            "function": "set_name",
+                            "name": "I'm funny"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:pufferfish",
+                    "functions": [
+                        {
+                            "function": "set_name",
+                            "name": "Oooooh!"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
